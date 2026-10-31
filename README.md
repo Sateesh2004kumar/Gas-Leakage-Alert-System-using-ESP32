@@ -26,6 +26,3 @@ The ESP32 continuously reads the analog output of the MQ-2 gas sensor. When the 
 
 ## ⚠️ Disclaimer
 This project is an educational prototype and is not a certified gas safety device. The sensor threshold is illustrative and must not be used as a reliable measurement of gas concentration or as a substitute for a certified gas detector.
-
-## 👨‍💻 Author
-Khan
